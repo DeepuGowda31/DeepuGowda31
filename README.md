@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak V Gowda</h1>
-<h3 align="center">A passionate Backend Developer</h3>
+<h3 align="center">An Engineering Student from India's Tech Capital</h3>
 
 - 🔭 I’m currently working on **Real time Ticket Booking Application**
 
