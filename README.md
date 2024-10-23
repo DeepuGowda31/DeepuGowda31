@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Gowda</h1>
 <h3 align="center">An Engineering Student from India's Tech Capital</h3>
 
-- 🔭 I’m currently working on **Real time Ticket Booking Application**
+- 🔭 I’m currently working on **Keyword based exploration**
 
 - 🌱 I’m currently learning **Spring Boot**
 
