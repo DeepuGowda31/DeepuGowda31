@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepak Gowda</h1>
 <h3 align="center">An Engineering Student from India's Tech Capital</h3>
 
-- 🔭 I’m currently working on **Keyword based exploration**
+- 🔭 I’m currently working on **Smart Logistics Optimization**
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Hibernate, Spring**
+- 💬 Ask me about **Java, Python, Hibernate, Spring**
 
-- 📫 How to reach me **deepugowda3103@gmail.com**
-
-- ⚡ Fun fact **I am lazy to be lazy..**
+- 📫 How to reach me **deepugowda.0331@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
