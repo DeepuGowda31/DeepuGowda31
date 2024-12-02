@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak Gowda</h1>
-<h3 align="center">An Engineering Student from India's Tech Capital</h3>
+<h3 align="center">A Computer Science(Artificial Intelligence and Machine Learning) student from India's Tech Capital</h3>
 
 - 🔭 I’m currently working on **Smart Logistics Optimization**
 
