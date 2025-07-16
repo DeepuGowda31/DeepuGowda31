@@ -12,11 +12,12 @@
 - 📫 How to reach me **deepugowda.0331@gmail.com**
 
 - 🏆 **Achievements:**
-• 🥇 **Winner – Alkimi Web3 Hackathon (70+ teams)**
+  
+  • 🥇 **Winner – Alkimi Web3 Hackathon (70+ teams)**
 
-• 🏅 **Top 4 – Monad Blitz Hackathon (Bangalore, 2024)**
+  • 🏅 **Top 4 – Monad Blitz Hackathon (Bangalore, 2024)**
 
-• 🏆 **Champion – Visionet TechFest 2024 (The Ottera Hotel Bangalore)**
+  • 🏆 **Champion – Visionet TechFest 2024 (The Ottera Hotel Bangalore)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
