@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web3,exploring the power of decentralization.**
 
-- 🌱 I’m currently learning **I’m currently exploring testnet deployments, optimizing for high TPS environments, and understanding the real-world challenges of gas efficiency, latency, and cross-chain interoperability in Web3**
+- 🌱 I’m currently learning **testnet deployments, optimizing for high TPS environments, and understanding the real-world challenges of gas efficiency, latency, and cross-chain interoperability in Web3**
 
 - 💬 Ask me about **Java, Python, Hibernate, SpringBoot, Solidity, Smart Contracts, Ethereum, Monad**
   
@@ -13,7 +13,9 @@
 
 - 🏆 **Achievements:**
 • 🥇 **Winner – Alkimi Web3 Hackathon (70+ teams)**
+
 • 🏅 **Top 4 – Monad Blitz Hackathon (Bangalore, 2024)**
+
 • 🏆 **Champion – Visionet TechFest 2024 (The Ottera Hotel Bangalore)**
 
 <h3 align="left">Connect with me:</h3>
